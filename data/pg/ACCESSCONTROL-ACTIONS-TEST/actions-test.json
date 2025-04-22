@@ -4020,7 +4020,7 @@
       "url": "url",
       "name": "FSM EMPLOYEE CREATE NEW APPLICATION",
       "enabled": true,
-      "navigationURL": "sanitation-ui/employee/fsm/new-application",
+      "navigationURL": "/sanitation-ui/employee/fsm/new-application",
       "parentModule": "",
       "serviceCode": "",
       "code": "null",
